@@ -1,0 +1,2 @@
+This is a text in the document javascript.txt
+
